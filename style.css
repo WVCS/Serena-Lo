@@ -1,1 +1,22 @@
+body {
+  background-color: #ED474A; 
+}
 
+p {
+  text-align: center;
+  color: #0FF4C6;
+font-family: courier new;
+  font-size: 500%
+}
+
+h1 {
+  color: #B118C8; 
+font-family: impact;  
+  font-size: 300%
+}
+
+h2 {
+  font-size: 500%
+  text-align: center; 
+  color: #0FF4C6;
+}
